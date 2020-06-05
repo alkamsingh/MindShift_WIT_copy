@@ -13,6 +13,8 @@
 
  </script>
         <style> 
+
+           
             * { 
                 box-sizing: border-box; 
             } 
@@ -395,7 +397,7 @@ input {
                     <div class="dropdown-content"></div>
                        <asp:UpdatePanel runat="server" id="UpdatePanel2" updatemode="Conditional">
         <Triggers>
-            <asp:AsyncPostBackTrigger controlid="btnSaveQues" eventname="Click" />
+            <asp:AsyncPostBackTrigger controlid="btnSaveQues" eventname="Click"/>
         </Triggers>
             <ContentTemplate>
                <asp:DropDownList ID="ddlDisplayQuiz" runat="server" Width="100px" >

@@ -47,6 +47,7 @@ namespace MindShift
         {
             RadioButtonList rbList = e.Item.FindControl("rdbQuiz") as RadioButtonList;
             Label lblOptions = e.Item.FindControl("lblOptions") as Label;
+            
             if (!string.IsNullOrEmpty(lblOptions.Text))
             {
                 string[] arOptions = lblOptions.Text.Split(',');
@@ -100,5 +101,7 @@ namespace MindShift
             lblPercent.Text = "You have given " + Convert.ToString(ipercent) + "% correct answers";
             lblPercent.Visible = true;
         }
+
+      
     }
 }
