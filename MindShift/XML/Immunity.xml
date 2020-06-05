@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/almonds.PNG</ImageUrl>
+    <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+    <AlternateText>C-sharpcorner Home Page</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/broccoli.PNG</ImageUrl>
+    <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+    <AlternateText>C-sharpcorner Home Page1</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/garlic.PNG</ImageUrl>
+    <Width>300</Width>
+    <Height>50</Height>
+    <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+    <AlternateText>C-sharpcorner Home Page2</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+</Advertisements>

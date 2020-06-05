@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Immunity>
+  <Ad>
+    <ImageUrl>~/Images/almonds.PNG</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Immunity Booster</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+    <Category>Script</Category>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/bell pepper.PNG</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Immunity Booster</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+    <Category>Script</Category>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/broccoli.PNG</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Immunity Booster</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+    <Category>Script</Category>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/citrus fruits.PNG</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Immunity Booster</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+    <Category>Script</Category>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/garlic.PNG</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Immunity Booster</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+    <Category>Script</Category>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/ginger.PNG</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Immunity Booster</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+    <Category>Script</Category>
+  </Ad>
+</Immunity>

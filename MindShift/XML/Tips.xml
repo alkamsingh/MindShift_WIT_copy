@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/Corona tips1.PNG</ImageUrl>
+    <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+    <AlternateText>C-sharpcorner Home Page</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/corona tips2.PNG</ImageUrl>
+    <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+    <AlternateText>C-sharpcorner Home Page1</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/corona tips3.PNG</ImageUrl>
+    <Width>300</Width>
+    <Height>50</Height>
+    <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+    <AlternateText>C-sharpcorner Home Page2</AlternateText>
+    <Impressions>3</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  Ad>
+  <ImageUrl>~/Images/corona tips4.PNG</ImageUrl>
+  <Width>300</Width>
+  <Height>50</Height>
+  <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+  <AlternateText>C-sharpcorner Home Page2</AlternateText>
+  <Impressions>3</Impressions>
+  <Keyword>small</Keyword>
+  </Ad>
+  Ad>
+  <ImageUrl>~/Images/corona tips5.PNG</ImageUrl>
+  <Width>300</Width>
+  <Height>50</Height>
+  <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+  <AlternateText>C-sharpcorner Home Page2</AlternateText>
+  <Impressions>3</Impressions>
+  <Keyword>small</Keyword>
+  Ad>
+  <ImageUrl>~/Images/corona tips6.PNG</ImageUrl>
+  <Width>300</Width>
+  <Height>50</Height>
+  <NavigateUrl>http://www.c-sharpcorner.com/</NavigateUrl>
+  <AlternateText>C-sharpcorner Home Page2</AlternateText>
+  <Impressions>3</Impressions>
+  <Keyword>small</Keyword>
+  </Ad>
+  </Ad>
+  
+</Advertisements>
